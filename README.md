@@ -19,3 +19,6 @@ The application includes the following tables:
 - `Users`
 - `StudentsCourses` (many-to-many relation)
 - `EFMigrationHistory`
+
+##The application will start and expose Swagger UI at:
+http://localhost:5000/swagger
